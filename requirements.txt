@@ -1,0 +1,10 @@
+# Name: Korbin Awender
+# Course: CSCI 130
+# Project: Week 4 Sentiment Analyzer
+# File: requirements.txt
+# Date: 11/13/2026
+
+nltk
+pandas
+scikit-learn
+numpy
